@@ -1,0 +1,83 @@
+VARKAI MASTER EXPORTER NONCOMMERCIAL SOURCE LICENSE
+
+Version 1.0 — October 29, 2026
+
+Copyright (c) 2026 Varkai Research. All rights reserved.
+
+IMPORTANT: This is a source-available, noncommercial license. It is not an Open Source Initiative-approved open-source license.
+
+1. Definitions
+
+Software means Varkai Master Exporter, including its source code, scripts, tests, documentation, and modifications or derivative works containing any copyrightable part of those materials, to the extent owned or licensable by the Licensor.
+
+Licensor means the copyright holder(s) who make the Software available under these terms.
+
+You means the individual or organization exercising rights under this license.
+
+Permitted Noncommercial Use means personal, hobby, educational, classroom, academic, and independent noncommercial research use, including use by students, instructors, educational institutions, and nonprofit academic or public research institutions. Academic use remains permitted when supported by ordinary tuition, grants, or institutional funding, provided the Software is not used primarily to deliver a commercial product or a contracted commercial service to a business customer.
+
+Commercial Use means any use of the Software for or on behalf of a for-profit enterprise in its business operations; in paid consulting or customer services; to develop, deliver, support, or operate a product or service sold or licensed for consideration; to provide paid access to the Software; or to sell, rent, sublicense, or otherwise commercially distribute the Software or a modified version. Commercial Use includes internal business use even if the Software itself is never sold.
+
+2. Noncommercial License Grant
+
+Subject to compliance with these terms, the Licensor grants You a worldwide, nonexclusive, royalty-free copyright license to access, use, run, study, reproduce, and modify the Software for Permitted Noncommercial Use.
+
+You may share original or modified copies without charging for the Software, provided that the sharing is for Permitted Noncommercial Use and You:
+
+Include this LICENSE text and preserve all applicable copyright, attribution, and third-party notices.
+
+Clearly identify files You have modified and describe significant modifications in a notice or changelog.
+
+Do not imply endorsement by Varkai Research.
+
+You may keep noncommercial modifications private. Publication of source-code modifications is not required by this license.
+
+3. Commercial Use Requires Separate Permission
+
+This license does not authorize Commercial Use.
+
+Before engaging in Commercial Use, You must obtain a separate written authorization or commercial license from the Licensor.
+
+A fee is not necessarily required; the Licensor may grant permission on terms agreed in writing.
+
+Silence, public repository access, and permission to view or fork on GitHub do not constitute commercial consent.
+
+A separate commercial agreement, if granted, controls the uses it expressly covers. Permissions not expressly granted remain reserved.
+
+4. Ownership, Outputs, and Third-Party Components
+
+The Licensor retains ownership of its Software. You retain any rights You otherwise have in Your original contributions, subject to the Licensor's rights in underlying Software.
+
+This license grants no right to Varkai Research names, logos, or trademarks except as needed to preserve attribution notices.
+
+Research reports, analysis results, and other data produced with the Software are not automatically subject to this license merely because the Software produced them. This does not change rights in copied source code, malware samples, third-party materials, or other independently protected content.
+
+Third-party components, if any, remain governed by their respective licenses. This license grants only rights the Licensor is authorized to grant.
+
+5. Compliance and Termination
+
+Rights under this license terminate upon a material violation of these terms.
+
+If this is Your first violation and the Licensor notifies You in writing, the license will be reinstated if You stop the violation and take reasonable steps to remedy it within 30 days of notice.
+
+Any activity requiring a separate commercial license must stop unless and until such permission is granted.
+
+Termination does not transfer ownership of Your independent contributions and does not affect rights that applicable law provides independently of this license.
+
+6. No Warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT.
+
+7. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR AND ITS CONTRIBUTORS WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR LOST PROFITS, DATA, OR BUSINESS OPPORTUNITIES ARISING FROM THE SOFTWARE OR THIS LICENSE.
+
+NOTHING HERE EXCLUDES LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED.
+
+8. Reservation of Rights
+
+Except for the permissions expressly granted above, all rights are reserved.
+
+No patent license or trademark license is granted by implication. Applicable statutory exceptions, including fair use where available, are not restricted.
+
+For commercial licensing inquiries, contact the maintainers of the VarkaiResearch/Ghidra-Master-Exporter GitHub repository.

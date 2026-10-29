@@ -1,0 +1,13 @@
+# Do not accidentally commit malware-associated raw exports or private analysis work.
+*_Varkai_*/
+*.bin
+*.gzf
+*.gar
+*.rep/
+*.gpr
+memory_bytes.csv
+all_disassembly.csv
+ALL_FUNCTIONS_DECOMPILED.c
+varkai_reports/
+__pycache__/
+*.pyc
